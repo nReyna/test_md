@@ -4,7 +4,7 @@ markdown test
 <svg width="20" height="20">
   <rect width="300" height="100" style="fill:rgb(0,0,255);stroke-width:3;stroke:rgb(0,0,0)" />
 </svg>
-
+SVG test
 
 <style>
 .early {
